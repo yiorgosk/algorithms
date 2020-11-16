@@ -155,4 +155,4 @@ if __name__ == '__main__':
             [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]]
 
     g = Lifelong_Planning_Astar(10, 10, grid)  # instantiation of ShortestPath class
-    g.ComputePath(0, 0, 9, 9)  # A Star Algorithm
+    g.ComputePath(0, 0, 9, 9)  # Lifelong A Star Algorithm
